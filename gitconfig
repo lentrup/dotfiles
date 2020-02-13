@@ -49,3 +49,5 @@
 [user]
 	email = luenneberger@gmail.com
 	name = Leon Entrup
+[credential]
+	helper = store
